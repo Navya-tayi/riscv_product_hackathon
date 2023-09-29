@@ -32,15 +32,15 @@ Servo Motors: <https://robu.in/product/towerpro-sg90-9gm-1-2kg-180-degree-rotati
 ESP32 CAM Module: <https://robu.in/product/esp32-cam-wifi-module-bluetooth-with-ov2640-camera-module-2mp/>
 
 ## Steps:
-1. The QR code is scanned by the patient. (For the prototype, the data of the QR codes are the letters 'A' and 'B'. In reality, this QR code will be present alongside the medicine name in the prescription given by the doctor.
+1. The QR code is scanned by the patient. (For the prototype, the data of the QR codes are the letters 'A' and 'B'. In reality, this QR code will be present alongside the medicine name in the prescription given by the doctor).
 <p align="center">
 <img src="https://github.com/Navya-tayi/riscv_product_hackathon/assets/79205242/3ea69fcd-174a-489d-9cc3-0fe64abc5ec0.png" width="100">
 </p>
 
-4. Depending on the QR scanned, the pharmacy machine will release either medicine 'A' or medicine 'B'
-5. The medicines are placed on an inclined plane, hence a pair of motors is sufficent for the dropping of the medicine bottle.
-6. Consider medicine 'A' once, the QR code is scanned by the ESP CAM module, a python opencv code will decipher the QR nad output 'A' into the serial channel of the riscduino.
-7. When the riscduino reads this, the respective motor mechanism is initiated.
+2. Depending on the QR scanned, the pharmacy machine will release either medicine 'A' or medicine 'B'
+3. The medicines are placed on an inclined plane, hence a pair of motors is sufficent for the dropping of the medicine bottle.
+4. Consider medicine 'A' once, the QR code is scanned by the ESP CAM module, a python opencv code will decipher the QR nad output 'A' into the serial channel of the riscduino.
+5. When the riscduino reads this, the respective motor mechanism is initiated.
 
 * Motor Mechanism:
   1. There are 2 motors for each medicine
@@ -68,7 +68,9 @@ ESP32 CAM Module: <https://robu.in/product/esp32-cam-wifi-module-bluetooth-with-
 
 ## Video:
 
-https://github.com/Navya-tayi/riscv_product_hackathon/assets/79205242/25b71ea2-58f9-4fc9-ac73-5c11d58608b6.mp4
+https://github.com/Navya-tayi/riscv_product_hackathon/assets/79205242/9e9a284d-9311-47cc-af4a-84f75db88d9a.mp4
+
+
 
 For testing in tinkercad, we just gave the input from serial monitor itself, since we don't have the hardware now, but for the prototype, the medicine name will come as a serial input
 from the QR code scanned by the ESP CAM and processed by the opencv code.
