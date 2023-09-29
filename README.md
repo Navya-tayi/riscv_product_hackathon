@@ -66,16 +66,16 @@ ESP32 CAM Module: <https://robu.in/product/esp32-cam-wifi-module-bluetooth-with-
 <img src ="https://github.com/Navya-tayi/riscv_product_hackathon/assets/79205242/ffd8e579-5239-4ecb-a1b6-ad9d8b07d948" width ="900">
 </p>
 
-Final Product Image:
+## Final Product Image:
 
 <p align="center">
-<img src ="https://github.com/Navya-tayi/riscv_product_hackathon/assets/79205242/0e31bbff-e667-474d-b93f-e93ca32a5210.png" width ="700">
+<img src ="https://github.com/Navya-tayi/riscv_product_hackathon/assets/79205242/0e31bbff-e667-474d-b93f-e93ca32a5210.png" width ="400">
 </p>
 
-SIDE VIEW 
+## SIDE VIEW :
 
 <p align="center">
-<img src ="https://github.com/Navya-tayi/riscv_product_hackathon/assets/79205242/a0bf9ace-791c-4e20-b2be-92ddba0e3fb5.png" width = "700">
+<img src ="https://github.com/Navya-tayi/riscv_product_hackathon/assets/79205242/a0bf9ace-791c-4e20-b2be-92ddba0e3fb5.png" width = "400">
 </p>
 
 ## Video:
