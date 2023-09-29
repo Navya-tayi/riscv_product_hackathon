@@ -97,3 +97,5 @@ https://github.com/Navya-tayi/riscv_product_hackathon/assets/79205242/9e9a284d-9
 For testing in tinkercad, we just gave the input from serial monitor itself, since we don't have the hardware now, but for the prototype, the medicine name will come as a serial input
 from the QR code scanned by the ESP CAM and processed by the opencv code.
 
+
+Project by team: bits n bytes
