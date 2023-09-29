@@ -12,14 +12,19 @@ Only warning, no errors:
 
 ![image](https://github.com/Navya-tayi/riscv_product_hackathon/assets/79205242/7124b562-beda-47db-82b9-99a68389e0ba.png)
 
+## Final BOM (Bill of materials) :
 
-| Component Name | Quantity required | Unit Price | Total Price |
-| -------------  |:-------------:     |:----------:|:-----------:|
-| col 3 is       | right-aligned | $1600 |
-| col 2 is       | centered      |   $12 |
-| zebra stripes  | are neat      |    $1 |
+| Component Name   | Quantity required | Unit Price | Total Price |
+| -------------    |:-----------------:|------------|-------------|
+| LCD Display      | 1                 | Rs. 190    |  Rs.190     |
+| Servo Motors     | 4                 | Rs. 174    |  Rs.696     |
+| ESP32 CAM Module | 1                 | Rs. 475    |  Rs.475     |
 
+Total Cost: Rs. 1,361
 
+LCD Display : https://robu.in/product/lcd1602-parallel-lcd-display-with-iic-i2c-interface/
+Servo Motors: https://robu.in/product/towerpro-sg90-9gm-1-2kg-180-degree-rotation-servo-motor-good-quality/
+ESP32 CAM Module: https://robu.in/product/esp32-cam-wifi-module-bluetooth-with-ov2640-camera-module-2mp/
 
 ## Steps:
 1. The QR code is scanned by the patient. (For the prototype, the data of the QR codes are the letters 'A' and 'B'. In reality, this QR code will be present alongside the medicine name in the prescription given by the doctor.
