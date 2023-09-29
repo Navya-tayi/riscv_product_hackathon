@@ -8,9 +8,11 @@
 
 
 ## RISCDUINO Compilation Screenshot:
-Only warning, no errors:
+### Only warning, no errors:
 
-![image](https://github.com/Navya-tayi/riscv_product_hackathon/assets/79205242/7124b562-beda-47db-82b9-99a68389e0ba.png)
+<p align="center">
+<img src ="https://github.com/Navya-tayi/riscv_product_hackathon/assets/79205242/7124b562-beda-47db-82b9-99a68389e0ba.png" width ="900">
+</p>
 
 ## Final BOM (Bill of materials) :
 
@@ -50,7 +52,9 @@ ESP32 CAM Module: <https://robu.in/product/esp32-cam-wifi-module-bluetooth-with-
 
 ## Rough circuit with all the compoenents:
 
-![circuit_diagram](https://github.com/Navya-tayi/riscv_product_hackathon/assets/79205242/032e8d44-c7a2-492f-bc1f-ef253dedcb5c.png)
+<p align="center">
+<img src ="https://github.com/Navya-tayi/riscv_product_hackathon/assets/79205242/032e8d44-c7a2-492f-bc1f-ef253dedcb5c.png" width="900">
+</p>
 
 1. The ESP Code will be uploaded to ESP CAM module through the vsdsqadron. The code will contain wifi name and password. (Code for ESP CAM has been uploaded)
 
@@ -58,7 +62,9 @@ ESP32 CAM Module: <https://robu.in/product/esp32-cam-wifi-module-bluetooth-with-
 
 ## Testing of the arduino code in TinkerCad:
 
-![image](https://github.com/Navya-tayi/riscv_product_hackathon/assets/79205242/ffd8e579-5239-4ecb-a1b6-ad9d8b07d948.png)
+<p align="center">
+<img src ="https://github.com/Navya-tayi/riscv_product_hackathon/assets/79205242/ffd8e579-5239-4ecb-a1b6-ad9d8b07d948" width ="900">
+</p>
 
 ## Video:
 
