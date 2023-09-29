@@ -9,7 +9,6 @@
 ## RISCDUINO Compilation Screenshot:
 Only warning, no errors:
 
-
 ![image](https://github.com/Navya-tayi/riscv_product_hackathon/assets/79205242/7124b562-beda-47db-82b9-99a68389e0ba.png)
 
 ## Final BOM (Bill of materials) :
@@ -20,7 +19,7 @@ Only warning, no errors:
 | Servo Motors     | 4                 | Rs. 174    |  Rs.696     |
 | ESP32 CAM Module | 1                 | Rs. 475    |  Rs.475     |
 
-Total Cost: Rs. 1,361
+**Total Cost: Rs. 1,361**
 
 
 LCD Display : <https://robu.in/product/lcd1602-parallel-lcd-display-with-iic-i2c-interface/>
