@@ -1,6 +1,6 @@
 # AUTOMATIC MINI PHARMACY MACHINE
 
-## **Error free** Arduino UNO compilation screenshot: 
+## Error free Arduino UNO compilation screenshot: 
 
 ![image](https://github.com/Navya-tayi/riscv_product_hackathon/assets/79205242/7a552af4-4be7-4346-b119-17afbd755c1f.png)
 
