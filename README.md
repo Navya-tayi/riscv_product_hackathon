@@ -1,19 +1,19 @@
 # AUTOMATIC MINI PHARMACY MACHINE
 
-**Error free** Arduino UNO compilation screenshot: 
+## **Error free** Arduino UNO compilation screenshot: 
 
 ![image](https://github.com/Navya-tayi/riscv_product_hackathon/assets/79205242/7a552af4-4be7-4346-b119-17afbd755c1f.png)
 
 
 
-RISCDUINO Compilation Screenshot:
+## RISCDUINO Compilation Screenshot:
 Only warning, no errors:
 
 
 ![image](https://github.com/Navya-tayi/riscv_product_hackathon/assets/79205242/7124b562-beda-47db-82b9-99a68389e0ba.png)
 
 
-Steps:
+## Steps:
 1. The QR code is scanned by the patient. (For the prototype, the data of the QR codes are the letters 'A' and 'B'. In reality, this QR code will be present alongside the medicine name in the prescription given by the doctor.
 <p align="center">
 <img src="https://github.com/Navya-tayi/riscv_product_hackathon/assets/79205242/3ea69fcd-174a-489d-9cc3-0fe64abc5ec0.png" width="100">
@@ -32,7 +32,7 @@ Steps:
   5. Once the medicine rolls forward, the second motor closes its flap, securing the medicine bottle in place.
 
 
-Rough circuit with all the compoenents:
+## Rough circuit with all the compoenents:
 
 ![circuit_diagram](https://github.com/Navya-tayi/riscv_product_hackathon/assets/79205242/032e8d44-c7a2-492f-bc1f-ef253dedcb5c.png)
 
@@ -40,10 +40,11 @@ Rough circuit with all the compoenents:
 
 2. The, the IP address of the ESP will be obtianed, and entered into the opencv python code which will identify the QR code in real time. (openCV python code for QR determination is also uploaded)
 
-Testing of the arduino code in TinkerCad:
+## Testing of the arduino code in TinkerCad:
 
 ![image](https://github.com/Navya-tayi/riscv_product_hackathon/assets/79205242/ffd8e579-5239-4ecb-a1b6-ad9d8b07d948.png)
 
+## Video:
 
 https://github.com/Navya-tayi/riscv_product_hackathon/assets/79205242/25b71ea2-58f9-4fc9-ac73-5c11d58608b6.mp4
 
