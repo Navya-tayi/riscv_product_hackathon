@@ -15,8 +15,8 @@ Only warning, no errors:
 
 Steps:
 1. The QR code is scanned by the patient. (For the prototype, the data of the QR codes are the letters 'A' and 'B'. In reality, this QR code will be present alongside the medicine name in the prescription given by the doctor.
-   
-![letter_A](https://github.com/Navya-tayi/riscv_product_hackathon/assets/79205242/3ea69fcd-174a-489d-9cc3-0fe64abc5ec0.png)
+
+replace ![ image](https://github.com/Navya-tayi/riscv_product_hackathon/assets/79205242/3ea69fcd-174a-489d-9cc3-0fe64abc5ec0.png)) with <img src="https://github.com/Navya-tayi/riscv_product_hackathon/assets/79205242/3ea69fcd-174a-489d-9cc3-0fe64abc5ec0.png)" width="100" height="100">
 
 2. Depending on the QR scanned, the pharmacy machine will release either medicine 'A' or medicine 'B'
 3. The medicines are placed on an inclined plane, hence a pair of motors is sufficent for the dropping of the medicine bottle.
