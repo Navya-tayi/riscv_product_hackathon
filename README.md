@@ -24,7 +24,7 @@
 <img src ="https://github.com/Navya-tayi/riscv_product_hackathon/assets/79205242/7124b562-beda-47db-82b9-99a68389e0ba.png" width ="900">
 </p>
 
-## Final BOM :
+## Final BOM:
 
 | Component Name   | Quantity required | Unit Price | Total Price |
 | -------------    |:-----------------:|------------|-------------|
