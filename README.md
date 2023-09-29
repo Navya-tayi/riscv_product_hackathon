@@ -93,9 +93,8 @@ ESP32 CAM Module: <https://robu.in/product/esp32-cam-wifi-module-bluetooth-with-
 https://github.com/Navya-tayi/riscv_product_hackathon/assets/79205242/9e9a284d-9311-47cc-af4a-84f75db88d9a.mp4
 
 
-
 For testing in tinkercad, we just gave the input from serial monitor itself, since we don't have the hardware now, but for the prototype, the medicine name will come as a serial input
 from the QR code scanned by the ESP CAM and processed by the opencv code.
 
 
-Project by team: bits n bytes
+### Project by team: bits n bytes
