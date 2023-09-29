@@ -5,7 +5,7 @@ Servo myservo2;
 Servo myservo3;
 Servo myservo4;
 
-LiquidCrystal lcd(13,8,12,11,10,4);
+LiquidCrystal lcd(13,14,7,8,9,10);
 
 int pos1 = 0;
 int pos2 = 0;
