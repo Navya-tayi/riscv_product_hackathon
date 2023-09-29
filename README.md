@@ -85,7 +85,7 @@ ESP32 CAM Module: <https://robu.in/product/esp32-cam-wifi-module-bluetooth-with-
 ## Side View:
 
 <p align="center">
-<img src ="https://github.com/Navya-tayi/riscv_product_hackathon/assets/79205242/a0bf9ace-791c-4e20-b2be-92ddba0e3fb5.png" width = "400">
+<img src ="https://github.com/Navya-tayi/riscv_product_hackathon/assets/79205242/a0bf9ace-791c-4e20-b2be-92ddba0e3fb5.png" width = "600">
 </p>
 
 ## Video-TinkerCAD:
