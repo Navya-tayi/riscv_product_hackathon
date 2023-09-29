@@ -13,6 +13,14 @@ Only warning, no errors:
 ![image](https://github.com/Navya-tayi/riscv_product_hackathon/assets/79205242/7124b562-beda-47db-82b9-99a68389e0ba.png)
 
 
+| Component Name | Quantity required | Unit Price | Total Price |
+| -------------  |:-------------:     |:----------:|:-----------:|
+| col 3 is       | right-aligned | $1600 |
+| col 2 is       | centered      |   $12 |
+| zebra stripes  | are neat      |    $1 |
+
+
+
 ## Steps:
 1. The QR code is scanned by the patient. (For the prototype, the data of the QR codes are the letters 'A' and 'B'. In reality, this QR code will be present alongside the medicine name in the prescription given by the doctor.
 <p align="center">
