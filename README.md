@@ -2,7 +2,7 @@
 
 * [Error Free Arduino UNO Compilation screenshot](#error-free-arduino-uno-compilation-screenshot)  
 * [RISCDUINO Compilation Screenshot](#riscduino-compilation-screenshot)  
-* [Final BOM (Bill of materials)](#final-bom-(-bill-of-materials-))  
+* [Final BOM](#final-bom)  
 * [Steps](#steps)  
 * [Rough circuit with all the components](#rough-circuit-with-all-components)  
 * [Final Product Image](#final-product-image)  
@@ -24,7 +24,7 @@
 <img src ="https://github.com/Navya-tayi/riscv_product_hackathon/assets/79205242/7124b562-beda-47db-82b9-99a68389e0ba.png" width ="900">
 </p>
 
-## Final BOM (Bill of materials) :
+## Final BOM :
 
 | Component Name   | Quantity required | Unit Price | Total Price |
 | -------------    |:-----------------:|------------|-------------|
