@@ -1,19 +1,12 @@
 # AUTOMATIC MINI PHARMACY MACHINE
 
-* [Error Free Arduino UNO Compilation screenshot](#error-free-arduino-uno-compilation-screenshot)
-  
-* [RISCDUINO Compilation Screenshot](#riscduino-compilation-screenshot)
-  
-* [Final BOM (Bill of materials)](#final-bom-(-bill-of-materials-))
-  
-* [Steps](#steps)
-  
-* [Rough circuit with all the components](#rough-circuit-with-all-components)
-  
-* [Final Product Image](#final-product-image)
-  
-* [Side View](#side-view)
-  
+* [Error Free Arduino UNO Compilation screenshot](#error-free-arduino-uno-compilation-screenshot)  
+* [RISCDUINO Compilation Screenshot](#riscduino-compilation-screenshot)  
+* [Final BOM (Bill of materials)](#final-bom-(-bill-of-materials-))  
+* [Steps](#steps)  
+* [Rough circuit with all the components](#rough-circuit-with-all-components)  
+* [Final Product Image](#final-product-image)  
+* [Side View](#side-view)  
 * [Video-TinkerCAD](#video-tinkercad)
 
 
