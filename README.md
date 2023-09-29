@@ -49,13 +49,13 @@ ESP32 CAM Module: <https://robu.in/product/esp32-cam-wifi-module-bluetooth-with-
 
 2. Depending on the QR scanned, the pharmacy machine will release either medicine 'A' or medicine 'B'
 3. The medicines are placed on an inclined plane, hence a pair of motors is sufficent for the dropping of the medicine bottle.
-4. Consider medicine 'A' once, the QR code is scanned by the ESP CAM module, a python opencv code will decipher the QR nad output 'A' into the serial channel of the riscduino.
+4. Consider medicine 'A', when the QR code is scanned by the ESP CAM module, a python opencv code will decipher the QR and output 'A' into the serial channel of the riscduino.
 5. When the riscduino reads this, the respective motor mechanism is initiated.
 
 * Motor Mechanism:
-  1. There are 2 motors for each medicine
-  2. The first motor opens its flap and th emedicine bottle rolls down
-  3. The first motor closes its flap
+  1. There are 2 motors for each medicine.
+  2. The first motor opens its flap and the medicine bottle rolls down.
+  3. The first motor closes its flap.
   4. The second motor lifts its flap and the next medicine rolls forward to take the place of its predecessor, but it dosent fall down because the flap on motor 1 is closed.
   5. Once the medicine rolls forward, the second motor closes its flap, securing the medicine bottle in place.
 
