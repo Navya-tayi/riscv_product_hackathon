@@ -16,7 +16,7 @@ Only warning, no errors:
 Steps:
 1. The QR code is scanned by the patient. (For the prototype, the data of the QR codes are the letters 'A' and 'B'. In reality, this QR code will be present alongside the medicine name in the prescription given by the doctor.
 
-<img src="https://github.com/Navya-tayi/riscv_product_hackathon/assets/79205242/3ea69fcd-174a-489d-9cc3-0fe64abc5ec0.png" width="100">
+<img src="https://github.com/Navya-tayi/riscv_product_hackathon/assets/79205242/3ea69fcd-174a-489d-9cc3-0fe64abc5ec0.png" width="100" align="center">
 
 
 4. Depending on the QR scanned, the pharmacy machine will release either medicine 'A' or medicine 'B'
