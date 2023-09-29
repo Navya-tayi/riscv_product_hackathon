@@ -60,7 +60,7 @@ ESP32 CAM Module: <https://robu.in/product/esp32-cam-wifi-module-bluetooth-with-
   5. Once the medicine rolls forward, the second motor closes its flap, securing the medicine bottle in place.
 
 
-## Rough circuit with all the components
+## Rough circuit with all the components:
 
 <p align="center">
 <img src ="https://github.com/Navya-tayi/riscv_product_hackathon/assets/79205242/032e8d44-c7a2-492f-bc1f-ef253dedcb5c.png" width="900">
@@ -82,7 +82,7 @@ ESP32 CAM Module: <https://robu.in/product/esp32-cam-wifi-module-bluetooth-with-
 <img src ="https://github.com/Navya-tayi/riscv_product_hackathon/assets/79205242/0e31bbff-e667-474d-b93f-e93ca32a5210.png" width ="400">
 </p>
 
-## Side View :
+## Side View:
 
 <p align="center">
 <img src ="https://github.com/Navya-tayi/riscv_product_hackathon/assets/79205242/a0bf9ace-791c-4e20-b2be-92ddba0e3fb5.png" width = "400">
