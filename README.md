@@ -1,6 +1,13 @@
 # AUTOMATIC MINI PHARMACY MACHINE
 
 * [Error Free Arduino UNO Compilation screenshot](#error-free-arduino-uno-compilation-screenshot)
+* [RISCDUINO Compilation Screenshot](#riscduino-compilation-screenshot)
+* [Final BOM (Bill of materials)](#final-bom-(-bill-of-materials-))
+* [Steps](#steps)
+* [Rough circuit with all the components](#rough-circuit-with-all-components)
+* [Final Product Image](#final-product-image)
+* [Side View](#side-view)
+* [Video-TinkerCAD](#video-tinkercad)
 
 
 ## Error free Arduino UNO compilation screenshot: 
@@ -53,7 +60,7 @@ ESP32 CAM Module: <https://robu.in/product/esp32-cam-wifi-module-bluetooth-with-
   5. Once the medicine rolls forward, the second motor closes its flap, securing the medicine bottle in place.
 
 
-## Rough circuit with all the compoenents:
+## Rough circuit with all the components:
 
 <p align="center">
 <img src ="https://github.com/Navya-tayi/riscv_product_hackathon/assets/79205242/032e8d44-c7a2-492f-bc1f-ef253dedcb5c.png" width="900">
@@ -75,13 +82,13 @@ ESP32 CAM Module: <https://robu.in/product/esp32-cam-wifi-module-bluetooth-with-
 <img src ="https://github.com/Navya-tayi/riscv_product_hackathon/assets/79205242/0e31bbff-e667-474d-b93f-e93ca32a5210.png" width ="400">
 </p>
 
-## SIDE VIEW :
+## Side View :
 
 <p align="center">
 <img src ="https://github.com/Navya-tayi/riscv_product_hackathon/assets/79205242/a0bf9ace-791c-4e20-b2be-92ddba0e3fb5.png" width = "400">
 </p>
 
-## Video:
+## Video-TinkerCAD:
 
 https://github.com/Navya-tayi/riscv_product_hackathon/assets/79205242/9e9a284d-9311-47cc-af4a-84f75db88d9a.mp4
 
