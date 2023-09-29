@@ -22,9 +22,12 @@ Only warning, no errors:
 
 Total Cost: Rs. 1,361
 
-LCD Display : https://robu.in/product/lcd1602-parallel-lcd-display-with-iic-i2c-interface/
-Servo Motors: https://robu.in/product/towerpro-sg90-9gm-1-2kg-180-degree-rotation-servo-motor-good-quality/
-ESP32 CAM Module: https://robu.in/product/esp32-cam-wifi-module-bluetooth-with-ov2640-camera-module-2mp/
+
+LCD Display : <https://robu.in/product/lcd1602-parallel-lcd-display-with-iic-i2c-interface/>
+
+Servo Motors: <https://robu.in/product/towerpro-sg90-9gm-1-2kg-180-degree-rotation-servo-motor-good-quality/>
+
+ESP32 CAM Module: <https://robu.in/product/esp32-cam-wifi-module-bluetooth-with-ov2640-camera-module-2mp/>
 
 ## Steps:
 1. The QR code is scanned by the patient. (For the prototype, the data of the QR codes are the letters 'A' and 'B'. In reality, this QR code will be present alongside the medicine name in the prescription given by the doctor.
